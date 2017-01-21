@@ -2,6 +2,9 @@ package com.softgroup.entity;
 
 import java.sql.Date;
 
+/*
+ * Второй коммит
+ * */
 public class Contact {
 	private String firstName;
 	private String lastName;
